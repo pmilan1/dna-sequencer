@@ -1,0 +1,8 @@
+Suspect1
+A,A,T,C,T,G,G,A,T,A,T,T,C,A,G,A,G,A,A,A,C,A,G,A,A,C,A,T,A,A
+Suspect2
+C,C,G,A,C,G,A,G,G,T,C,T,A,A,T,T,T,G,C,A,G,G,T,C,C,T,C,T,A,G
+Suspect3
+A,A,T,C,G,A,C,G,G,A,T,A,C,T,T,A,G,T,C,T,A,C,T,G,C,T,T,T,G,A
+Evidence1
+T,T,G,C,A,G,G,T,C

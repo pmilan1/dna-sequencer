@@ -1,0 +1,4 @@
+Suspect1
+C,C,G,A,C,G,A,G,G,T,C,T,A,A,T,T,T,G,C,A,G,G,T,C,C,T,C,T,A,G
+Evidence1
+A,A,T,T,A,G,C,A,G
